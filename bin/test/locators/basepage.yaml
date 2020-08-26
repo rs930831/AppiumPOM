@@ -1,0 +1,43 @@
+defaultClient: android
+defaultLocale: en_US
+en_US:
+    pageTitle:
+      titlename: 
+            name: Login Page
+    elements:
+      noConnectionRetry:
+            android: com.flipkart.android:id/try_again_button
+      appBar:
+            android: com.flipkart.android:id/appBar
+      searchIcon:
+            android: com.flipkart.android:id/search_icon
+      bellNotificationIcon:
+            android: com.flipkart.android:id/in_app_notification_bell
+      cartIcon:
+            android: com.flipkart.android:id/cart_bg_icon
+      drawerOpen:
+            android: Open Drawer #Replace this by id
+      flipkartHome: 
+            android: Flipkart home #Replace this by id
+      drawerOptionsAll:
+            android: com.flipkart.android:id/flyout_parent_container
+      shop:
+            android: Shop #Replace this by id
+      superCoin:
+            android: SuperCoin #Replace this by id
+      ideas:
+            android: Ideas #Replace this by id
+      video:
+            android: Video #Replace this by id
+      games:
+            android: Games #Replace this by id
+      searchTextBox:
+            android: com.flipkart.android:id/search_widget_textbox
+      searchInput:
+            android: com.flipkart.android:id/search_autoCompleteTextView
+      searchCancel:
+            android: Cancel search #Replace this by id
+      androidNoneOfTheAbove:
+            android: com.google.android.gms:id/cancel
+    #  searchCancel:
+    #        android: Cancel search #Replace this by id
